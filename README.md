@@ -12,4 +12,4 @@ I am Sanduni Rathnayake. I am a Data Science Graduate at SLIIT. I possess experi
 - ⚡ Fun fact: I'm fluffy
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kishan20-00&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sanduni2000&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
